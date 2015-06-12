@@ -1,0 +1,9 @@
+Package: com.tencent.appid2name
+Name: appid2name
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: mu william
+Author: mu william
+Section: Tweaks
